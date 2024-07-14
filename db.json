@@ -1,0 +1,40 @@
+ {
+    "cards": [
+      {
+        "id": 1,
+        "imagen": "file:///C:/Users/51964/Downloads/Nueva%20carpeta/imagen1.png",
+        "nombre": "Stormtrooper",
+        "precio": "S/. 60.00"
+      },
+      {
+        "id": 2,
+        "imagen": "file:///C:/Users/51964/Downloads/Nueva%20carpeta/imagen2.png",
+        "nombre": "Game Boy Classic",
+        "precio": "S/. 60.00"
+      },
+      {
+        "id": 3,
+        "imagen": "file:///C:/Users/51964/Downloads/Nueva%20carpeta/imagen3.png",
+        "nombre": "Stormtrooper",
+        "precio": "S/. 60.00"
+      },
+      {
+        "id": 4,
+        "imagen": "file:///C:/Users/51964/Downloads/Nueva%20carpeta/imagen4.png",
+        "nombre": "Game Boy Classic",
+        "precio": "S/. 60.00"
+      },
+      {
+        "id": 5,
+        "imagen": "file:///C:/Users/51964/Downloads/Nueva%20carpeta/imagen5.png",
+        "nombre": "Stormtrooper",
+        "precio": "S/. 60.00"
+      },
+      {
+        "id": 6,
+        "imagen": "file:///C:/Users/51964/Downloads/Nueva%20carpeta/imagen6.png",
+        "nombre": "Game Boy Classic",
+        "precio": "S/. 60.00"
+      }
+    ]
+  }
